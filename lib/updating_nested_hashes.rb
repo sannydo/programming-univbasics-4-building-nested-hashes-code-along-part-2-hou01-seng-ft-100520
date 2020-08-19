@@ -62,7 +62,7 @@ def add_characters
 epic_tragedy[:montague][:hero]
 [:status] = "dead"
 
-epic_tragedy[:capulet][:hero][:status] = "dead"
+epic_tragedy[:capulet][:hero][:status] "dead"
 
 epic_tragedy[:additional_characters]= 
   prince = {name: "Prince Escalus"}
